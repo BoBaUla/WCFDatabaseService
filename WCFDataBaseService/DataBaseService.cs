@@ -23,7 +23,7 @@ namespace WCFDataBaseService
 
         public DataBaseService()
         {
-            _connectionInfo = new ConnectionInfo("", "", "", ""); // hier die Verbindungsinformationen zur Datenbank anlegen
+            _connectionInfo = new ConnectionInfo("localhost", "client", "root", "boba"); // hier die Verbindungsinformationen zur Datenbank anlegen
             _dbInteraction = new DataBaseInteraction(_connectionInfo);
             _request = new DataBaseRequest(_dbInteraction);
         }

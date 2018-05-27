@@ -27,3 +27,4 @@ E:\VisualStudio\Projekte\WCFReSTService\DataBaseServiceImplementation\obj\Debug\
 E:\VisualStudio\Projekte\WCFReSTService\DataBaseServiceImplementation\obj\Debug\DataBaseServiceImplementation.csproj.CopyComplete
 E:\VisualStudio\Projekte\WCFReSTService\DataBaseServiceImplementation\obj\Debug\DataBaseServiceImplementation.exe
 E:\VisualStudio\Projekte\WCFReSTService\DataBaseServiceImplementation\obj\Debug\DataBaseServiceImplementation.pdb
+E:\VisualStudio\Projekte\WCFReSTService\DataBaseServiceImplementation\obj\Debug\DataBaseServiceImplementation.csprojAssemblyReference.cache

@@ -6,3 +6,4 @@ E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\WCTDataBase
 E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\WCTDataBaseService.pdb
 E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCTDataBaseService.dll
 E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCTDataBaseService.pdb
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCFDataBaseService.csprojAssemblyReference.cache
