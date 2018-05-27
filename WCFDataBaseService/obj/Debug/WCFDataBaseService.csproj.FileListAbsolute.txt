@@ -1,0 +1,8 @@
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\MySql.Data.dll
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCFDataBaseService.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCFDataBaseService.csproj.CopyComplete
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\WCTDataBaseService.dll.config
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\WCTDataBaseService.dll
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\bin\Debug\WCTDataBaseService.pdb
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCTDataBaseService.dll
+E:\VisualStudio\Projekte\WCFReSTService\WCFDataBaseService\obj\Debug\WCTDataBaseService.pdb
