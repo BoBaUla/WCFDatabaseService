@@ -268,6 +268,7 @@
             this.buttonWebhost.TabIndex = 22;
             this.buttonWebhost.Text = "Web hosting";
             this.buttonWebhost.UseVisualStyleBackColor = true;
+            this.buttonWebhost.Click += new System.EventHandler(this.buttonWebhost_Click);
             // 
             // Form1
             // 
