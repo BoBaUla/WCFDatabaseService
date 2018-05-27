@@ -259,6 +259,7 @@
             this.buttonWebStop.TabIndex = 23;
             this.buttonWebStop.Text = "Stop";
             this.buttonWebStop.UseVisualStyleBackColor = true;
+            this.buttonWebStop.Click += new System.EventHandler(this.buttonWebStop_Click);
             // 
             // buttonWebhost
             // 

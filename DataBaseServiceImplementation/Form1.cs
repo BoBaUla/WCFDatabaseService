@@ -30,7 +30,7 @@ namespace DataBaseServiceImplementation
             }
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
         }
 
@@ -43,7 +43,7 @@ namespace DataBaseServiceImplementation
             }
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
 
         }
@@ -61,7 +61,7 @@ namespace DataBaseServiceImplementation
             }
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
         }
 
@@ -78,7 +78,7 @@ namespace DataBaseServiceImplementation
             }
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
         }
 
@@ -91,7 +91,7 @@ namespace DataBaseServiceImplementation
             }
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
         }
 
@@ -104,7 +104,7 @@ namespace DataBaseServiceImplementation
             }       
             catch (Exception ex)
             {
-                MessageBox.Show(message);
+                MessageBox.Show(message + " or: \n" + ex.Message);
             }
         }
 
